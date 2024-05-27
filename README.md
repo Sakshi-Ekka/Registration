@@ -1,5 +1,4 @@
-# Registration Project
-School Admission form built using python and MySql (School Project)
+# School Admission Form
 
 
 import mysql.connector as mys
